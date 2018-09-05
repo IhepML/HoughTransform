@@ -19,4 +19,8 @@ GBDT分类器经过训练样本1的本地加邻居特征的拟合之后，可以
 下图是使用不同特征训练预测结果的ROC曲线，曲线中展示了使用不同特征训练的GBDT预测结果的信号保留率与本底排除率的变换关系，其中绿色虚线与黄色虚线分别代表了信号保留率为99%与99.7%，使用不同特征集合训练结果如下
 signals retention=99%,backgrounds rejection=79.7%,96.2%,99.1%
 signals retention=99.7%,backgrounds rejection=67.5%,92.1%,98.3%
-<div align=center><img src="https://github.com/IhepML/HoughTransform/blob/master/image/roc_curve.png"></div>
+<div align=center><img src="https://github.com/IhepML/HoughTransform/blob/master/image/roc_curve.pn|
+|sig.ret  |local|local neigh|local neigh hough|
+|---------| ----|-----------|-----------------|
+|99%      |79.7%|96.2%      |99.1%            |
+|99.7%    |67.5%|92.1%      |98.3%            |

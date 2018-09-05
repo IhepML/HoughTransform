@@ -20,23 +20,3 @@ GBDT分类器经过训练样本1的本地加邻居特征的拟合之后，可以
 signals retention=99%,backgrounds rejection=79.7%,96.2%,99.1%
 signals retention=99.7%,backgrounds rejection=67.5%,92.1%,98.3%
 <div align=center><img src="https://github.com/IhepML/HoughTransform/blob/master/image/roc_curve.png></div>
-<table align=center border="1" cellspacing="0">
-    <tr>
-        <td>sig.ret</td>
-        <td>local</td>
-        <td>loc+neigh</td>
-        <td>loc+neigh+hough</td>
-    </tr>
-    <tr>
-        <td>99%</td>
-        <td>79.7%</td>
-        <td>96.2%</td>
-        <td>99.1%</td>
-    </tr>
-    <tr>
-        <td>99.7%</td>
-        <td>67.5%</td>
-        <td>92.1%</td>
-        <td>98.3%</td>
-    </tr>
-</table>

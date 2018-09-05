@@ -23,20 +23,20 @@ signals retention=99.7%,backgrounds rejection=67.5%,92.1%,98.3%
 <table align=center border="1" cellspacing="0">
     <tr>
         <td width="60">sig.ret</td>
-        <td style="color:red" width="60">local</td>
-        <td style="color:blue" wodth="60">loc+neigh</td>
-        <td style="color:green" width="60">loc+neigh+hough</td>
+        <td width="60">local</td>
+        <td wodth="60">loc+neigh</td>
+        <td width="60">loc+neigh+hough</td>
     </tr>
     <tr>
         <td>99%</td>
-        <td style="color:red">79.7%</td>
-        <td style="color:blue">96.2%</td>
-        <td style="color:green">99.1%</td>
+        <td>79.7%</td>
+        <td>96.2%</td>
+        <td>99.1%</td>
     </tr>
     <tr>
         <td>99.7%</td>
-        <td style="color:red">67.5%</td>
-        <td style="color:blue">92.1%</td>
-        <td style="color:green">98.3%</td>
+        <td>67.5%</td>
+        <td>92.1%</td>
+        <td>98.3%</td>
     </tr>
 </table>

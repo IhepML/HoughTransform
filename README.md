@@ -22,10 +22,10 @@ signals retention=99.7%,backgrounds rejection=67.5%,92.1%,98.3%
 <div align=center><img src="https://github.com/IhepML/HoughTransform/blob/master/image/roc_curve.png></div>
 <table align=center border="1" cellspacing="0">
     <tr>
-        <td width="60">sig.ret</td>
-        <td width="60">local</td>
-        <td wodth="60">loc+neigh</td>
-        <td width="60">loc+neigh+hough</td>
+        <td>sig.ret</td>
+        <td>local</td>
+        <td>loc+neigh</td>
+        <td>loc+neigh+hough</td>
     </tr>
     <tr>
         <td>99%</td>
